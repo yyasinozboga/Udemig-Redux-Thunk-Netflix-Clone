@@ -32,4 +32,4 @@ API: https://developer.themoviedb.org/reference/intro/getting-started
 
 ## Preview
 
-<img src="/assets/Netflix Clone Gif.gif">
+<img src="/public/assets/Netflix Clone Gif.gif">
